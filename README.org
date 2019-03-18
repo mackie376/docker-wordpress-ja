@@ -1,0 +1,10 @@
+#+TITLE: docker-wordpress-ja
+#+AUTHOR: Takashi Makimoto (Beehive Development Ltd.)
+#+EMAIL: mackie@beehive-dev.com
+#+LANGUAGE: ja
+
+日本語版 WordPress の Docker コンテナです。
+
+- php 7.3
+- apache
+- wordpress 5.1.1
